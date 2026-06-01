@@ -13,7 +13,9 @@
 
 ## 📸 Screenshot
 
-![KageAlloc GUI Dashboard](screenshot.png)
+<div align="center">
+  <img src="screenshot.png" width="600" alt="KageAlloc GUI Dashboard">
+</div>
 
 ---
 
