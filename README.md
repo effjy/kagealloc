@@ -11,6 +11,12 @@
 
 ---
 
+## 📸 Screenshot
+
+![KageAlloc GUI Dashboard](screenshot.png)
+
+---
+
 ## 📡 Announcement
 
 > **✅ Full source code and validation suite are now available!**
