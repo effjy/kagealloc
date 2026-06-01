@@ -148,7 +148,7 @@ KageAlloc auto‑detects if the host CPU and kernel support hardware Memory Prot
 If you use KageAlloc in your research, please cite:
 
 ```bibtex
-@misc{lachance2025kagealloc,
+@misc{lachance2026kagealloc,
   author = {Jean-François Lachance-Caumartin},
   title = {KageAlloc: High-Performance Hardware-Assisted Temporal Memory Safety and Metadata Integrity for Systems Software},
   year = {2026},
