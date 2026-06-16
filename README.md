@@ -1,4 +1,8 @@
-# 🛡️ KageAlloc: Hardware-Assisted Memory Safety
+<div align="center">
+
+<a href="https://github.com/effjy/kagealloc/"><img src="titles/kagealloc-title.svg" height="52" alt="KageAlloc"></a>
+
+Hardware-Assisted Memory Safety
 
 ### High-Performance Temporal Memory Safety & Metadata Integrity for Systems Software
 
@@ -8,6 +12,8 @@
 [![Language](https://img.shields.io/badge/Language-C-blue)](https://github.com/effjy/kagealloc)
 [![Platform](https://img.shields.io/badge/Platform-Linux-important)](https://github.com/effjy/kagealloc)
 [![Intel MPK](https://img.shields.io/badge/Intel-MPK-orange)](https://github.com/effjy/kagealloc)
+
+</div>
 
 ---
 
